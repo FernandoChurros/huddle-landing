@@ -1,0 +1,10 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	font-family: "Poppins";
+	--cor-violet: hsl(257, 40%, 49%);
+	--cor-soft-magenta: hsl(300, 69%, 71%);
+}

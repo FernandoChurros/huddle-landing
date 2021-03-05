@@ -1,0 +1,12 @@
+.header {
+	width: 85%;
+	margin: 0 auto;
+	height: 60px;
+	position: relative;
+}
+
+.header img {
+	width: 130px;
+	position: absolute;
+	bottom: 0;
+}
